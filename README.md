@@ -1,0 +1,1 @@
+Simple redactor plugin that lets you insert urls using the google I'm feeling lucky api.
